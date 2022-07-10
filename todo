@@ -1,0 +1,13 @@
+add snap gh
+add snap and flatpak support default
+add system based install config in zshrc
+sync zshrc and bashrc
+userScript
+
+first sets up gh
+clones git bare
+clone wallpaers
+clones configs ??
+then continues 
+
+remove unnecasary files from this repo
